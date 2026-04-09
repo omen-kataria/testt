@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Blackline Student Dashboard — Minimal academic portal.">
+  <title>Blackline Student Dashboard | Login</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body class="page page-auth" data-page="login">
+  <div class="page-noise" aria-hidden="true"></div>
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+  <div class="transition-shield" aria-hidden="true"></div>
+
+  <main class="app-shell auth-shell">
+
+    <!-- LEFT: overview panel -->
+    <section class="glass-panel auth-overview" id="auth-overview">
+      <p class="eyebrow">Academic Experience Portal</p>
+      <h1>Student data, made&nbsp;effortless.</h1>
+      <p class="lead">Sign in to access your dashboard, academic snapshot, and project highlights.</p>
+
+      <!-- Stats row -->
+      <div class="overview-grid">
+        <article class="stat-tile interactive-surface"><span class="stat-label">Students</span><strong class="stat-value" id="login-student-count">—</strong></article>
+        <article class="stat-tile interactive-surface"><span class="stat-label">Session</span><strong class="stat-value" id="login-session-label">—</strong></article>
+        <article class="stat-tile interactive-surface"><span class="stat-label">Semester</span><strong class="stat-value" id="login-semester-label">—</strong></article>
+      </div>
+
+      <!-- Infinite scrolling banner 1 -->
+      <div class="marquee-wrap" aria-hidden="true">
+        <div class="marquee marquee-left">
+          <div class="marquee-track">
+            <span class="marquee-item">"The dashboard made tracking my SGPA so much easier"</span>
+            <span class="marquee-item">· Clean minimal interface</span>
+            <span class="marquee-item">"Finally a tool that just works"</span>
+            <span class="marquee-item">· Dark mode is perfect for late nights</span>
+            <span class="marquee-item">"Loved the project portfolio section"</span>
+            <span class="marquee-item">· Built with vanilla JS — no bloat</span>
+            <span class="marquee-item">"Helped me stay on top of backlogs"</span>
+            <span class="marquee-item">· Responsive on every device</span>
+            <span class="marquee-item">"The dashboard made tracking my SGPA so much easier"</span>
+            <span class="marquee-item">· Clean minimal interface</span>
+            <span class="marquee-item">"Finally a tool that just works"</span>
+            <span class="marquee-item">· Dark mode is perfect for late nights</span>
+            <span class="marquee-item">"Loved the project portfolio section"</span>
+            <span class="marquee-item">· Built with vanilla JS — no bloat</span>
+            <span class="marquee-item">"Helped me stay on top of backlogs"</span>
+            <span class="marquee-item">· Responsive on every device</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Infinite scrolling banner 2: Features (reverse) -->
+      <div class="marquee-wrap" aria-hidden="true">
+        <div class="marquee marquee-right">
+          <div class="marquee-track">
+            <span class="marquee-item">SGPA Tracking</span>
+            <span class="marquee-item">Target Goals</span>
+            <span class="marquee-item">Project Portfolio</span>
+            <span class="marquee-item">Class Rankings</span>
+            <span class="marquee-item">Secure Login</span>
+            <span class="marquee-item">Dark Mode</span>
+            <span class="marquee-item">Mobile Ready</span>
+            <span class="marquee-item">Instant Load</span>
+            <span class="marquee-item">SGPA Tracking</span>
+            <span class="marquee-item">Target Goals</span>
+            <span class="marquee-item">Project Portfolio</span>
+            <span class="marquee-item">Class Rankings</span>
+            <span class="marquee-item">Secure Login</span>
+            <span class="marquee-item">Dark Mode</span>
+            <span class="marquee-item">Mobile Ready</span>
+            <span class="marquee-item">Instant Load</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Top Skills Among Students -->
+      <div class="leaderboard-card interactive-surface">
+        <div class="section-heading compact"><div><p class="eyebrow">Insights</p><h2>Top Skills Among Students</h2></div></div>
+        <div class="top-skills-list" id="top-skills-list" aria-live="polite"></div>
+      </div>
+
+      <!-- Quotes banner -->
+      <div class="marquee-wrap" aria-hidden="true">
+        <div class="marquee marquee-left marquee-slow">
+          <div class="marquee-track">
+            <span class="marquee-item quote-item">"Education is not preparation for life; education is life itself." — Dewey</span>
+            <span class="marquee-item quote-item">"The more that you read, the more things you will know." — Dr. Seuss</span>
+            <span class="marquee-item quote-item">"Success is the sum of small efforts, repeated." — Collier</span>
+            <span class="marquee-item quote-item">"Learning never exhausts the mind." — Da Vinci</span>
+            <span class="marquee-item quote-item">"Education is not preparation for life; education is life itself." — Dewey</span>
+            <span class="marquee-item quote-item">"The more that you read, the more things you will know." — Dr. Seuss</span>
+            <span class="marquee-item quote-item">"Success is the sum of small efforts, repeated." — Collier</span>
+            <span class="marquee-item quote-item">"Learning never exhausts the mind." — Da Vinci</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT: login form -->
+    <section class="glass-panel auth-panel" id="auth-panel">
+      <div class="panel-topbar">
+        <div><p class="eyebrow">Secure Access</p><h2>Student Login</h2></div>
+        <div style="display:flex; gap:.75rem; align-items:center;">
+          <a href="index.html" class="secondary-button" id="auth-home-btn" style="text-decoration:none; padding:.35rem .75rem; font-size:.82rem;">← Home</a>
+          <label class="theme-switch" aria-label="Toggle dark mode">
+            <input type="checkbox" data-theme-toggle id="theme-toggle-login">
+            <span class="theme-switch-track"><span class="theme-switch-icon sun-icon">☀️</span><span class="theme-switch-thumb"></span><span class="theme-switch-icon moon-icon">🌙</span></span>
+          </label>
+        </div>
+      </div>
+      <form id="login-form" class="form-card" novalidate>
+        <div class="field-group"><label for="login-id">UID / Login ID</label><input id="login-id" name="loginId" type="text" autocomplete="username" placeholder="Enter your UID" required></div>
+        <div class="field-group"><label for="login-password">Password</label>
+          <div class="password-wrap"><input id="login-password" name="password" type="password" autocomplete="current-password" placeholder="Enter your password" required><button type="button" class="password-toggle" id="password-toggle" aria-label="Show password"><span class="eye-icon">Show</span></button></div>
+        </div>
+        <button class="primary-button" id="login-submit" type="submit"><span class="btn-text">Open Dashboard</span><span class="btn-loader" aria-hidden="true"></span></button>
+      </form>
+      <p class="form-feedback" id="login-feedback" aria-live="polite"></p>
+      <div class="auth-footnote"><p>Use the exact UID and password from the JSON data file.</p></div>
+    </section>
+  </main>
+  <script defer src="js/app.js"></script>
+  <script defer src="js/pages/auth.js"></script>
+</body>
+</html>

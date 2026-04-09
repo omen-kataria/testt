@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Blackline Student Dashboard — Profile, marks, projects, skills, certifications.">
+  <title>Blackline Student Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body class="page page-dashboard" data-page="dashboard">
+  <div class="page-noise" aria-hidden="true"></div>
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+  <div class="transition-shield" aria-hidden="true"></div>
+  <div class="mobile-nav-overlay" id="mobile-nav-overlay" aria-hidden="true"></div>
+
+  <div class="app-shell dashboard-shell">
+
+    <!-- HEADER: fixed top bar with nav -->
+    <header class="glass-panel dashboard-header" id="dashboard-top">
+      <div class="header-profile">
+        <img class="avatar avatar-header" id="header-avatar" src="" alt="Profile">
+        <div class="header-info"><p class="header-title" id="header-name">Student</p><p class="header-subtitle" id="header-meta">UID</p></div>
+      </div>
+      <button class="hamburger" id="hamburger-btn" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
+      <nav class="main-nav" id="main-nav" aria-label="Primary navigation">
+        <button class="nav-close-btn" id="nav-close-btn" aria-label="Close navigation" type="button">✕</button>
+        <a class="nav-link is-active" data-page-link="dashboard" href="#dashboard">Dashboard</a>
+        <a class="nav-link" id="nav-profile-link" href="profile.html">Profile</a>
+        <a class="nav-link" data-page-link="academic" href="#academic">Marks</a>
+        <a class="nav-link" data-page-link="courses" href="#courses">Courses</a>
+        <a class="nav-link" data-page-link="projects" href="#projects">Projects</a>
+        <a class="nav-link" data-page-link="settings" href="#settings">Settings</a>
+        <button class="nav-button" id="logout-button" type="button">Logout</button>
+      </nav>
+      <label class="theme-switch" aria-label="Toggle dark mode">
+        <input type="checkbox" data-theme-toggle id="theme-toggle-dash">
+        <span class="theme-switch-track"><span class="theme-switch-icon sun-icon">☀️</span><span class="theme-switch-thumb"></span><span class="theme-switch-icon moon-icon">🌙</span></span>
+      </label>
+    </header>
+
+    <!-- PAGE: Dashboard (home/overview) -->
+    <section class="dash-page is-active-page" id="dashboard" data-page-id="dashboard">
+      <div class="glass-panel hero-panel">
+        <div class="hero-copy"><p class="eyebrow">Dashboard</p><h1 id="hero-title">Welcome back</h1><p class="lead" id="hero-description"></p></div>
+        <div class="hero-metrics" id="hero-metrics"></div>
+        <div class="search-panel">
+          <label class="search-label" for="dashboard-search">Search your dashboard</label>
+          <div class="search-input-wrap">
+            <div class="search-icon-wrap">
+              <svg class="search-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              <input id="dashboard-search" type="search" placeholder="Search subjects, projects, skills…" autocomplete="off">
+            </div>
+            <button class="secondary-button" id="clear-search" type="button">Clear</button>
+          </div>
+          <p class="subtle-text" id="search-summary"></p>
+        </div>
+      </div>
+      <!-- Quick skills preview on dashboard -->
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Skills</p><h2>Applied Strengths</h2></div></div>
+        <div class="tag-cloud" id="skills-grid"></div>
+      </div>
+      <!-- Performance Insights -->
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Performance</p><h2>Performance Insights</h2></div><p class="subtle-text">Qualitative overview of your academic journey.</p></div>
+        <div id="performance-breakdown"></div>
+      </div>
+    </section>
+
+    <!-- PAGE: Profile (Identity, Edu, Exp, Certs) -->
+    <section class="dash-page" id="profile" data-page-id="profile">
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Profile</p><h2>Student Identity</h2></div><p class="subtle-text">Your profile, focus area, and contact details.</p></div>
+        <div class="profile-layout">
+          <div class="profile-card interactive-surface">
+            <img class="avatar avatar-profile" id="profile-avatar" src="" alt="Profile">
+            <div class="profile-copy"><h3 id="profile-name">Name</h3><p class="profile-headline" id="profile-headline"></p><p class="profile-about" id="profile-about"></p></div>
+          </div>
+          <div class="detail-grid" id="profile-details"></div>
+        </div>
+      </div>
+      
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Background</p><h2>Education</h2></div></div>
+        <div class="card-grid" id="education-grid"></div>
+      </div>
+
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Career</p><h2>Experience</h2></div></div>
+        <div class="card-grid" id="experience-grid"></div>
+      </div>
+
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Credentials</p><h2>Certifications &amp; Licenses</h2></div></div>
+        <div class="card-grid certification-grid" id="certifications-grid"></div>
+      </div>
+
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Communication</p><h2>Languages</h2></div></div>
+        <div class="card-grid" id="languages-grid"></div>
+      </div>
+
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Stack</p><h2>Technologies</h2></div></div>
+        <div class="card-grid" id="technologies-grid"></div>
+      </div>
+    </section>
+
+    <!-- PAGE: Marks / Academic -->
+    <section class="dash-page" id="academic" data-page-id="academic">
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Academic</p><h2>Marks &amp; Grades</h2></div><p class="subtle-text">Subject-wise performance snapshot.</p></div>
+        <div class="summary-grid" id="academic-summary"></div>
+      </div>
+      <div class="glass-panel">
+        <div class="section-heading compact"><div><p class="eyebrow">Subjects</p><h2>Course Details</h2></div></div>
+        <div class="semester-tabs" id="dash-academic-tabs"></div>
+        <div class="semester-content-wrap">
+          <div class="card-grid academic-grid" id="academic-grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PAGE: Courses -->
+    <section class="dash-page" id="courses" data-page-id="courses">
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Learning</p><h2>Additional Courses</h2></div><p class="subtle-text">Structured learning and ongoing courses.</p></div>
+        <div class="card-grid" id="courses-grid"></div>
+      </div>
+    </section>
+
+    <!-- PAGE: Projects -->
+    <section class="dash-page" id="projects" data-page-id="projects">
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Projects</p><h2>Portfolio Highlights</h2></div><p class="subtle-text">Project cards with domain-relevant ideas.</p></div>
+        <div class="card-grid project-grid" id="projects-grid"></div>
+      </div>
+    </section>
+
+    <!-- PAGE: Settings / Edit Profile -->
+    <section class="dash-page" id="settings" data-page-id="settings">
+      <div class="glass-panel">
+        <div class="section-heading"><div><p class="eyebrow">Settings</p><h2>Edit Profile</h2></div><p class="subtle-text">Saved in this browser's localStorage.</p></div>
+        <form class="editor-form" id="profile-form" novalidate>
+          <div class="editor-preview interactive-surface">
+            <img class="avatar avatar-editor" id="editor-avatar" src="" alt="Preview">
+            <div><h3 id="editor-name-preview">Name</h3><p class="subtle-text">Upload an image or keep the generated avatar.</p></div>
+            <div class="field-group field-group-inline"><label for="avatar-upload">Profile Image</label><input id="avatar-upload" name="avatarUpload" type="file" accept="image/*"></div>
+          </div>
+          <div class="editor-grid">
+            <div class="field-group"><label for="display-name">Preferred Name</label><input id="display-name" name="displayName" type="text" placeholder="Display name"></div>
+            <div class="field-group"><label for="headline">Headline</label><input id="headline" name="headline" type="text" placeholder="Short headline"></div>
+            <div class="field-group"><label for="email">Email</label><input id="email" name="email" type="email" placeholder="you@example.com"></div>
+            <div class="field-group"><label for="phone">Phone</label><input id="phone" name="phone" type="tel" placeholder="+91"></div>
+            <div class="field-group"><label for="location">Location</label><input id="location" name="location" type="text" placeholder="City, State"></div>
+            <div class="field-group"><label for="learning-focus">Academic Focus</label><input id="learning-focus" name="learningFocus" type="text" placeholder="Current focus"></div>
+            <div class="field-group field-group-wide"><label for="skills-input">Skills</label><textarea id="skills-input" name="skills" rows="2" placeholder="Comma-separated skills"></textarea></div>
+            <div class="field-group field-group-wide"><label for="about-input">About</label><textarea id="about-input" name="about" rows="4" placeholder="Short profile summary"></textarea></div>
+          </div>
+
+          <!-- Education Section (LinkedIn-style) -->
+          <div class="settings-section" id="settings-education">
+            <div class="settings-section-header">
+              <div><p class="eyebrow">Background</p><h3>Education</h3></div>
+              <button type="button" class="add-entry-btn" id="add-education-btn"><span class="plus-icon">+</span> Add</button>
+            </div>
+            <div class="settings-entries" id="education-entries"></div>
+          </div>
+
+          <!-- Experience Section (LinkedIn-style) -->
+          <div class="settings-section" id="settings-experience">
+            <div class="settings-section-header">
+              <div><p class="eyebrow">Career</p><h3>Experience</h3></div>
+              <button type="button" class="add-entry-btn" id="add-experience-btn"><span class="plus-icon">+</span> Add</button>
+            </div>
+            <div class="settings-entries" id="experience-entries"></div>
+          </div>
+
+          <!-- Certifications Section (LinkedIn-style) -->
+          <div class="settings-section" id="settings-certifications">
+            <div class="settings-section-header">
+              <div><p class="eyebrow">Credentials</p><h3>Certifications & Licenses</h3></div>
+              <button type="button" class="add-entry-btn" id="add-certification-btn"><span class="plus-icon">+</span> Add</button>
+            </div>
+            <div class="settings-entries" id="certification-entries"></div>
+          </div>
+
+          <!-- Programming Languages Section -->
+          <div class="settings-section" id="settings-languages">
+            <div class="settings-section-header">
+              <div><p class="eyebrow">Communication</p><h3>Programming Languages</h3></div>
+            </div>
+            <div class="tag-input-row" id="language-input-row">
+              <div class="field-group"><input type="text" id="lang-input" placeholder="e.g. C++, Java, Python, JavaScript"></div>
+              <div class="field-group">
+                <select id="lang-level">
+                  <option value="" disabled selected>Select level</option>
+                  <option value="Beginner">Beginner</option>
+                  <option value="Intermediate">Intermediate</option>
+                  <option value="Advanced">Advanced</option>
+                </select>
+              </div>
+              <button type="button" class="secondary-button" id="add-language-btn">Add</button>
+            </div>
+            <div class="tag-cloud mt-sm" id="language-entries"></div>
+          </div>
+
+          <!-- Technologies Section -->
+          <div class="settings-section" id="settings-technologies">
+            <div class="settings-section-header">
+              <div><p class="eyebrow">Stack</p><h3>Technologies & Tools</h3></div>
+            </div>
+            <div class="tag-input-row" id="technology-input-row">
+              <div class="field-group"><input type="text" id="tech-input" placeholder="e.g. React, Node.js, Docker, AWS"></div>
+              <div class="field-group">
+                <select id="tech-level">
+                  <option value="" disabled selected>Select level</option>
+                  <option value="Beginner">Beginner</option>
+                  <option value="Intermediate">Intermediate</option>
+                  <option value="Advanced">Advanced</option>
+                </select>
+              </div>
+              <button type="button" class="secondary-button" id="add-technology-btn">Add</button>
+            </div>
+            <div class="tag-cloud mt-sm" id="technology-entries"></div>
+          </div>
+
+          <div class="editor-actions">
+            <button class="primary-button" type="submit"><span class="btn-text">Save Changes</span></button>
+            <button class="secondary-button" id="reset-profile" type="button">Reset Customizations</button>
+          </div>
+        </form>
+        <p class="form-feedback" id="profile-feedback" aria-live="polite"></p>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="glass-panel dashboard-footer">
+      <p class="subtle-text">&copy; 2025 Blackline Student Dashboard. Built with vanilla HTML, CSS &amp; JS.</p>
+    </footer>
+  </div>
+  <script defer src="js/app.js"></script>
+  <script defer src="js/pages/dashboard.js"></script>
+</body>
+</html>
