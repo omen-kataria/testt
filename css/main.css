@@ -1,0 +1,169 @@
+/* ================================================================
+   BLACKLINE — Design Tokens, Reset, Typography, Accessibility
+   ================================================================ */
+
+/* === 1. TOKENS === */
+:root {
+  color-scheme: light;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --radius-xl: 24px;
+  --radius-lg: 18px;
+  --radius-md: 14px;
+  --radius-sm: 10px;
+  --radius-pill: 999px;
+  
+  /* Semantic Color System */
+  --primary: #111;
+  --secondary: #555;
+  
+  --bg-app: #f5f5f2;
+  --bg-card: rgba(255, 255, 255, 0.72);
+  --bg-solid: #fff;
+  --bg-hover: rgba(0, 0, 0, 0.05);
+  --bg-input: rgba(255, 255, 255, 0.5);
+  --bg-chip: rgba(255, 255, 255, 0.35);
+  
+  --text-primary: #111;
+  --text-secondary: #777;
+  --text-disabled: #aaa;
+  
+  --border-subtle: rgba(0, 0, 0, 0.07);
+  --border-strong: rgba(0, 0, 0, 0.14);
+  
+  --state-success: #1a7a4c;
+  --state-warning: #946b1a;
+  --state-error: #b33;
+  --state-info: #216ce7;
+  
+  /* Shadows */
+  --shadow-soft: 0 8px 32px rgba(0, 0, 0, 0.06);
+  --shadow-strong: 0 16px 48px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 8px 24px rgba(0, 0, 0, 0.06);
+  
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --tr-slow: 400ms var(--ease-out);
+  --tr-base: 220ms ease;
+  --tr-fast: 160ms ease;
+
+  /* Legacy Maps for compatibility */
+  --bg: var(--bg-app);
+  --bg-elev: var(--bg-card);
+  --text: var(--text-primary);
+  --text-muted: var(--text-secondary);
+  --border: var(--border-subtle);
+  --line-strong: var(--border-strong);
+  --accent: var(--primary);
+  --accent-soft: var(--bg-hover);
+  --success: var(--state-success);
+  --warning: var(--state-warning);
+  --danger: var(--state-error);
+  --input-bg: var(--bg-input);
+  --card-bg: var(--bg-card);
+  --chip-bg: var(--bg-chip);
+}
+
+/* === 2. DARK MODE === */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --primary: #eee;
+  --secondary: #aaa;
+  
+  /* Layered dark tones instead of black */
+  --bg-app: #121212;
+  --bg-card: rgba(30, 30, 30, 0.85);
+  --bg-solid: #1e1e1e;
+  --bg-hover: rgba(255, 255, 255, 0.06);
+  --bg-input: rgba(255, 255, 255, 0.06);
+  --bg-chip: rgba(255, 255, 255, 0.08);
+
+  --text-primary: #eee;
+  --text-secondary: #aaa;
+  --text-disabled: #666;
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.15);
+
+  --state-success: #6fcf97;
+  --state-warning: #f0c674;
+  --state-error: #e88;
+  --state-info: #5da9e9;
+
+  --shadow-soft: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --shadow-strong: 0 16px 48px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 0 1px rgba(255, 255, 255, 0.06), 0 8px 24px rgba(0, 0, 0, 0.4);
+
+  /* Legacy Maps */
+  --bg: var(--bg-app);
+  --bg-elev: var(--bg-card);
+  --text: var(--text-primary);
+  --text-muted: var(--text-secondary);
+  --border: var(--border-subtle);
+  --line-strong: var(--border-strong);
+  --accent: var(--primary);
+  --accent-soft: var(--bg-hover);
+  --success: var(--state-success);
+  --warning: var(--state-warning);
+  --danger: var(--state-error);
+  --input-bg: var(--bg-input);
+  --card-bg: var(--bg-card);
+  --chip-bg: var(--bg-chip);
+}
+
+/* === 3. RESET === */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+  min-height: 100vh; font-family: var(--font-sans); font-size: 15px;
+  color: var(--text); line-height: 1.6; overflow-x: hidden; background: var(--bg);
+  transition: background-color var(--tr-slow), color var(--tr-slow);
+}
+img { display: block; max-width: 100%; }
+button, input, textarea, select, a { font: inherit; }
+a { color: inherit; text-decoration: none; }
+button { cursor: pointer; border: 0; background: none; }
+
+/* === 4. DECORATIVE === */
+.page-noise { position: fixed; inset: 0; pointer-events: none; z-index: 0; opacity: 0.15; background-image: linear-gradient(rgba(0,0,0,.02) 1px,transparent 1px), linear-gradient(90deg,rgba(0,0,0,.02) 1px,transparent 1px); background-size: 80px 80px; }
+:root[data-theme="dark"] .page-noise { opacity: 0.06; }
+.orb { position: fixed; border-radius: 50%; pointer-events: none; z-index: 0; filter: blur(100px); opacity: 0.12; animation: orbFloat 20s ease-in-out infinite alternate; }
+:root[data-theme="dark"] .orb { opacity: 0.06; }
+.orb-1 { width: 400px; height: 400px; top: -100px; left: -80px; background: rgba(120,120,120,.4); }
+.orb-2 { width: 350px; height: 350px; bottom: -80px; right: -60px; background: rgba(100,100,100,.3); animation-delay: -10s; }
+@keyframes orbFloat { 0% { transform: translate(0,0) scale(1); } 100% { transform: translate(30px,-20px) scale(1.05); } }
+.transition-shield { position: fixed; inset: 0; pointer-events: none; z-index: 100; opacity: 0; }
+
+/* === 5. PAGE TRANSITIONS === */
+.page { opacity: 0; transform: translateY(12px); transition: opacity var(--tr-slow), transform var(--tr-slow); }
+.page.page-ready { opacity: 1; transform: none; }
+.page.page-exit { opacity: 0; transform: translateY(-8px); pointer-events: none; }
+
+/* === 9. TYPOGRAPHY === */
+.eyebrow { margin: 0 0 .4rem; color: var(--text-muted); font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .16em; }
+h1, h2, h3, p { margin-top: 0; }
+h1 { margin-bottom: .75rem; font-size: clamp(1.8rem,3.5vw,3rem); font-weight: 800; line-height: 1.08; letter-spacing: -.03em; }
+h2 { margin-bottom: .25rem; font-size: clamp(1.2rem,2vw,1.6rem); font-weight: 700; letter-spacing: -.02em; }
+h3 { margin-bottom: .4rem; font-size: 1rem; font-weight: 600; }
+.lead { margin-bottom: 1.2rem; max-width: 55ch; color: var(--text-muted); font-size: .93rem; line-height: 1.65; }
+.subtle-text { margin: 0; color: var(--text-muted); line-height: 1.5; font-size: .85rem; }
+
+/* === ACCESSIBILITY === */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+input:focus-visible, textarea:focus-visible, select:focus-visible { outline: none; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 6px; }
+::selection { background: var(--accent); color: var(--bg); }
+
+/* === UTILITY CLASSES (replacing inline styles) === */
+.mb-0 { margin-bottom: 0; }
+.mb-xs { margin-bottom: .3rem; }
+.mb-sm { margin-bottom: .4rem; }
+.mt-sm { margin-top: .35rem; }
+.mt-md { margin-top: .75rem; }
+.my-xs { margin: .3rem 0; }
+.tag-sm { padding: .18rem .4rem; font-size: .65rem; }
+.link-underline { text-decoration: underline; }
+.is-hidden { display: none; }
+.centered-panel { text-align: center; padding: 2.5rem; }

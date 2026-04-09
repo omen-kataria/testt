@@ -1,0 +1,7230 @@
+{
+  "meta": {
+    "portalName": "Blackline Student Dashboard",
+    "program": "Bachelor of Computer Applications",
+    "department": "School of Computer Applications",
+    "semester": "3rd",
+    "semesterLabel": "3rd Semester",
+    "session": "2024-25",
+    "campus": "Academic Experience Portal",
+    "totalSemesters": 6
+  },
+  "subjects": {
+    "1": [
+      {
+        "code": "BCAC101T",
+        "name": "Computer Fundamentals"
+      },
+      {
+        "code": "BCAC102T",
+        "name": "C Programming"
+      },
+      {
+        "code": "BCAE103T",
+        "name": "Business Communication"
+      },
+      {
+        "code": "BCAE104T",
+        "name": "Mathematics-I"
+      },
+      {
+        "code": "BCAS105T",
+        "name": "Environmental Science"
+      },
+      {
+        "code": "BCAC106P",
+        "name": "C Programming Lab"
+      },
+      {
+        "code": "BCAS107P",
+        "name": "PC Software Lab"
+      }
+    ],
+    "2": [
+      {
+        "code": "BCAC201T",
+        "name": "Data Structures"
+      },
+      {
+        "code": "BCAC202T",
+        "name": "Digital Electronics"
+      },
+      {
+        "code": "BCAE203T",
+        "name": "Mathematics-II"
+      },
+      {
+        "code": "BCAE204T",
+        "name": "Database Management Systems"
+      },
+      {
+        "code": "BCAS205T",
+        "name": "Internet Technologies"
+      },
+      {
+        "code": "BCAC206P",
+        "name": "Data Structures Lab"
+      },
+      {
+        "code": "BCAS207P",
+        "name": "DBMS Lab"
+      }
+    ],
+    "3": [
+      {
+        "code": "BCAC301T",
+        "name": "Operating System"
+      },
+      {
+        "code": "BCAC302T",
+        "name": "System Analysis & Design"
+      },
+      {
+        "code": "BCAE303T",
+        "name": "Accounting & Financial Management"
+      },
+      {
+        "code": "BCAE304T",
+        "name": "Operation Research"
+      },
+      {
+        "code": "BCAS305T",
+        "name": "Python Programming"
+      },
+      {
+        "code": "BCAC306P",
+        "name": "Operating System Lab"
+      },
+      {
+        "code": "BCAS307P",
+        "name": "Python Programming Lab"
+      }
+    ],
+    "4": [
+      {
+        "code": "BCAC401T",
+        "name": "Java Programming"
+      },
+      {
+        "code": "BCAC402T",
+        "name": "Computer Networks"
+      },
+      {
+        "code": "BCAE403T",
+        "name": "Web Technologies"
+      },
+      {
+        "code": "BCAE404T",
+        "name": "Software Engineering"
+      },
+      {
+        "code": "BCAS405T",
+        "name": "Computer Graphics"
+      },
+      {
+        "code": "BCAC406P",
+        "name": "Java Programming Lab"
+      },
+      {
+        "code": "BCAS407P",
+        "name": "Web Technologies Lab"
+      }
+    ],
+    "5": [
+      {
+        "code": "BCAC501T",
+        "name": "Artificial Intelligence"
+      },
+      {
+        "code": "BCAC502T",
+        "name": "Cloud Computing"
+      },
+      {
+        "code": "BCAE503T",
+        "name": "Cyber Security"
+      },
+      {
+        "code": "BCAE504T",
+        "name": "E-Commerce"
+      },
+      {
+        "code": "BCAS505T",
+        "name": "Machine Learning"
+      },
+      {
+        "code": "BCAC506P",
+        "name": "AI & ML Lab"
+      },
+      {
+        "code": "BCAS507P",
+        "name": "Cloud Computing Lab"
+      }
+    ],
+    "6": [
+      {
+        "code": "BCAC601T",
+        "name": "Blockchain Technology"
+      },
+      {
+        "code": "BCAC602T",
+        "name": "Data Analytics"
+      },
+      {
+        "code": "BCAE603T",
+        "name": "IoT & Embedded Systems"
+      },
+      {
+        "code": "BCAE604T",
+        "name": "Project Management"
+      },
+      {
+        "code": "BCAS605T",
+        "name": "Major Project"
+      },
+      {
+        "code": "BCAC606P",
+        "name": "Data Analytics Lab"
+      },
+      {
+        "code": "BCAS607P",
+        "name": "Project Viva"
+      }
+    ]
+  },
+  "students": [
+    {
+      "serialNumber": 1,
+      "uid": "BCA25124001",
+      "loginId": "BCA25124001",
+      "password": "iWHd3#Ma&N0f",
+      "name": "KESHAV",
+      "sgpa": 4.08,
+      "remark": "PCP 303, PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 3.21,
+          "remark": "PCP 102"
+        },
+        "2": {
+          "sgpa": 3.22,
+          "remark": "PCP 203"
+        },
+        "3": {
+          "sgpa": 4.08,
+          "remark": "PCP 303, PWG"
+        },
+        "4": {
+          "sgpa": 3.24,
+          "remark": "PCP 405"
+        },
+        "5": {
+          "sgpa": 3.25,
+          "remark": "PCP 501"
+        },
+        "6": {
+          "sgpa": 3.26,
+          "remark": "PCP 602"
+        }
+      },
+      "cgpa": 3.38,
+      "education": {
+        "school": "City Montessori School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "May 2026",
+          "credentialId": "AZ-900-200402",
+          "credentialUrl": "https://credential.example.com/verify/bca25124001-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Ongoing",
+          "progress": 77,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 2,
+      "uid": "BCA25124002",
+      "loginId": "BCA25124002",
+      "password": "e@B9%4LUuI4O",
+      "name": "MOHD AMAN",
+      "sgpa": 4.5,
+      "remark": "PCP 301, PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 3.72,
+          "remark": "PCP 103"
+        },
+        "2": {
+          "sgpa": 3.73,
+          "remark": "PCP 204"
+        },
+        "3": {
+          "sgpa": 4.5,
+          "remark": "PCP 301, PWG"
+        },
+        "4": {
+          "sgpa": 3.75,
+          "remark": "PCP 401"
+        },
+        "5": {
+          "sgpa": 3.76,
+          "remark": "PCP 502"
+        },
+        "6": {
+          "sgpa": 3.77,
+          "remark": "PCP 603"
+        }
+      },
+      "cgpa": 3.87,
+      "education": {
+        "school": "Springdales School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Dec 2025",
+          "endDate": "Dec 2027",
+          "credentialId": "PY-FE-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124002-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Ongoing",
+          "progress": 70,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 3,
+      "uid": "BCA25124003",
+      "loginId": "BCA25124003",
+      "password": "jvy*PyA4Il34",
+      "name": "MOHAMMAD FARAZ",
+      "sgpa": 5.67,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.98,
+          "remark": "PCP 104"
+        },
+        "2": {
+          "sgpa": 4.99,
+          "remark": "PCP 205"
+        },
+        "3": {
+          "sgpa": 5.67,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 5.01,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.02,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.03,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.12,
+      "education": {
+        "school": "Army Public School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "Campus Ambassador",
+          "employmentType": "Contract",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": false,
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "Jul 2026",
+          "credentialId": "META-FE-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124003-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Ongoing",
+          "progress": 63,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 4,
+      "uid": "BCA25124004",
+      "loginId": "BCA25124004",
+      "password": "n*zFNtq&8P@P",
+      "name": "AKSHAT SHARMA",
+      "sgpa": 4.5,
+      "remark": "PCP 302 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 3.9,
+          "remark": "PCP 105"
+        },
+        "2": {
+          "sgpa": 3.91,
+          "remark": "PCP 201"
+        },
+        "3": {
+          "sgpa": 4.5,
+          "remark": "PCP 302 & PWG"
+        },
+        "4": {
+          "sgpa": 3.93,
+          "remark": "PCP 403"
+        },
+        "5": {
+          "sgpa": 3.94,
+          "remark": "PCP 504"
+        },
+        "6": {
+          "sgpa": 3.95,
+          "remark": "PCP 605"
+        }
+      },
+      "cgpa": 4.02,
+      "education": {
+        "school": "La Martiniere College",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Feb 2025",
+          "endDate": "Feb 2027",
+          "credentialId": "IBM-DS-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124004-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Ongoing",
+          "progress": 56,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 5,
+      "uid": "BCA25124005",
+      "loginId": "BCA25124005",
+      "password": "51lHi7c7bo@C",
+      "name": "GARIMA CHAUHAN",
+      "sgpa": 7.33,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.82,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.83,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7.33,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.85,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.86,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.87,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.93,
+      "education": {
+        "school": "Ryan International School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Web Development Intern",
+          "employmentType": "Part-time",
+          "organization": "NextGen Digital",
+          "currentlyWorking": true,
+          "startDate": "Feb 2025",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Cisco Networking Basics",
+          "issuer": "Cisco",
+          "badge": "Cisco",
+          "issueDate": "Sep 2024",
+          "endDate": "No Expiry",
+          "credentialId": "CISCO-NB-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124005-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Oct 2025",
+          "endDate": "No Expiry",
+          "credentialId": "OJF-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124005-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Java Programming Masterclass",
+          "code": "CRS-JPM-07",
+          "startDate": "Jul 2024",
+          "endDate": "Oct 2024",
+          "duration": "10 weeks",
+          "description": "OOP concepts, multithreading, and Java project development.",
+          "status": "Ongoing",
+          "progress": 49,
+          "grade": null
+        },
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Aug 2025",
+          "endDate": "Oct 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Ongoing",
+          "progress": 50,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 6,
+      "uid": "BCA25124006",
+      "loginId": "BCA25124006",
+      "password": "UDJC5Q*5*EvU",
+      "name": "DIPANKI YADAV",
+      "sgpa": 6.25,
+      "remark": "PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 5.83,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 5.84,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.25,
+          "remark": "PWG"
+        },
+        "4": {
+          "sgpa": 5.86,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.87,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.88,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.92,
+      "education": {
+        "school": "DAV Public School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Full-time",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": false,
+          "startDate": "Mar 2024",
+          "endDate": "Aug 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Apr 2025",
+          "endDate": "Apr 2027",
+          "credentialId": "OJF-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124006-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "May 2024",
+          "endDate": "May 2026",
+          "credentialId": "GH-FND-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124006-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Feb 2025",
+          "endDate": "Apr 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Ongoing",
+          "progress": 42,
+          "grade": null
+        },
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Mar 2024",
+          "endDate": "Apr 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 43,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 7,
+      "uid": "BCA25124007",
+      "loginId": "BCA25124007",
+      "password": "2i?VLBCH9?am",
+      "name": "KASAF",
+      "sgpa": 5,
+      "remark": "PCP 302",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.67,
+          "remark": "PCP 103"
+        },
+        "2": {
+          "sgpa": 4.68,
+          "remark": "PCP 204"
+        },
+        "3": {
+          "sgpa": 5,
+          "remark": "PCP 302"
+        },
+        "4": {
+          "sgpa": 4.7,
+          "remark": "PCP 401"
+        },
+        "5": {
+          "sgpa": 4.71,
+          "remark": "PCP 502"
+        },
+        "6": {
+          "sgpa": 4.72,
+          "remark": "PCP 603"
+        }
+      },
+      "cgpa": 4.75,
+      "education": {
+        "school": "St. Xavier's School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Contract",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": false,
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Nov 2024",
+          "endDate": "Nov 2026",
+          "credentialId": "GH-FND-200403",
+          "credentialUrl": "https://credential.example.com/verify/bca25124007-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Sep 2024",
+          "endDate": "Oct 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 81,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 8,
+      "uid": "BCA25124008",
+      "loginId": "BCA25124008",
+      "password": "q*QcnUdlyuf0",
+      "name": "PREET KUMAR",
+      "sgpa": 2.67,
+      "remark": "PCP 301,303,305 PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 2.43,
+          "remark": "PCP 104"
+        },
+        "2": {
+          "sgpa": 2.44,
+          "remark": "PCP 205"
+        },
+        "3": {
+          "sgpa": 2.67,
+          "remark": "PCP 301,303,305 PWG"
+        },
+        "4": {
+          "sgpa": 2.46,
+          "remark": "PCP 402"
+        },
+        "5": {
+          "sgpa": 2.47,
+          "remark": "PCP 503"
+        },
+        "6": {
+          "sgpa": 2.48,
+          "remark": "PCP 604"
+        }
+      },
+      "cgpa": 2.49,
+      "education": {
+        "school": "La Martiniere College",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "serialNumber": 9,
+      "uid": "BCA25124009",
+      "loginId": "BCA25124009",
+      "password": "k9%gBRghupN5",
+      "name": "MOHD ALTAMAS",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "5": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "6": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        }
+      },
+      "cgpa": 0,
+      "education": {
+        "school": "Amity International",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "serialNumber": 10,
+      "uid": "BCA25124010",
+      "loginId": "BCA25124010",
+      "password": "#poKfCCh9@%2",
+      "name": "FAIZA ALAM",
+      "sgpa": 5.75,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 5.17,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 5.18,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 5.75,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 5.2,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.21,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.22,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.29,
+      "education": {
+        "school": "Bishop Cotton School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Contract",
+          "organization": "DataDriven Co.",
+          "currentlyWorking": false,
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "Nov 2024",
+          "endDate": "Nov 2026",
+          "credentialId": "AZ-900-200405",
+          "credentialUrl": "https://credential.example.com/verify/bca25124010-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Sep 2024",
+          "endDate": "Dec 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 11,
+      "uid": "BCA25124011",
+      "loginId": "BCA25124011",
+      "password": "$v88c#@4MSEe",
+      "name": "RIYA",
+      "sgpa": 6.17,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 5.68,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 5.69,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.17,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 5.71,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.72,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.73,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.78,
+      "education": {
+        "school": "Modern School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "UI/UX Design Intern",
+          "employmentType": "Internship",
+          "organization": "CloudNine Systems",
+          "currentlyWorking": false,
+          "startDate": "May 2024",
+          "endDate": "Aug 2024",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Jun 2025",
+          "endDate": "Jun 2027",
+          "credentialId": "PY-FE-200405",
+          "credentialUrl": "https://credential.example.com/verify/bca25124011-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "Jul 2026",
+          "credentialId": "META-FE-200405",
+          "credentialUrl": "https://credential.example.com/verify/bca25124011-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        },
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 12,
+      "uid": "BCA25124012",
+      "loginId": "BCA25124012",
+      "password": "mqH#90VY&6py",
+      "name": "JHALAK CHAUHAN",
+      "sgpa": 6.58,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.18,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.19,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.58,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.21,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.22,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.23,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.27,
+      "education": {
+        "school": "Amity International",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Part-time",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": false,
+          "startDate": "Jun 2025",
+          "endDate": "Oct 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jan 2024",
+          "endDate": "Jan 2026",
+          "credentialId": "META-FE-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124012-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Feb 2025",
+          "endDate": "Feb 2027",
+          "credentialId": "IBM-DS-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124012-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        },
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 13,
+      "uid": "BCA25124015",
+      "loginId": "BCA25124015",
+      "password": "w%YGkXhHDZ0G",
+      "name": "PALAK",
+      "sgpa": 6.75,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.62,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.63,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.75,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.65,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.66,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.67,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.66,
+      "education": {
+        "school": "Delhi Public School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Technical Content Writer",
+          "employmentType": "Internship",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": false,
+          "startDate": "Sep 2024",
+          "endDate": "Dec 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Oct 2025",
+          "endDate": "Oct 2027",
+          "credentialId": "OJF-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124015-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Nov 2024",
+          "endDate": "Nov 2026",
+          "credentialId": "GH-FND-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124015-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Aug 2025",
+          "endDate": "Oct 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        },
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Sep 2024",
+          "endDate": "Oct 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 14,
+      "uid": "BCA25124016",
+      "loginId": "BCA25124016",
+      "password": "bQE43%gDsxd&",
+      "name": "PRAGYA RAJPUT",
+      "sgpa": 8.83,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 8.79,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 8.8,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.83,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 8.82,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 8.83,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 8.84,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 8.82,
+      "education": {
+        "school": "City Montessori School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Part-time",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": true,
+          "startDate": "Oct 2025",
+          "endDate": "Present",
+          "locationType": "Remote"
+        },
+        {
+          "title": "UI/UX Design Intern",
+          "employmentType": "Full-time",
+          "organization": "Infobyte Technologies",
+          "currentlyWorking": false,
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GH-FND-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124016-0",
+          "status": "Completed"
+        },
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "CMPT-A-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124016-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Jul 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GGL-IT-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124016-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Mar 2024",
+          "endDate": "Apr 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 55,
+          "grade": null
+        },
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Ongoing",
+          "progress": 56,
+          "grade": null
+        },
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 57,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 15,
+      "uid": "BCA25124017",
+      "loginId": "BCA25124017",
+      "password": "A@3e@NJDmksY",
+      "name": "SHIVANG DHEEMAN",
+      "sgpa": 6.17,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.22,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.23,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.17,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.25,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.26,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.27,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.23,
+      "education": {
+        "school": "Kendriya Vidyalaya",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Full-time",
+          "organization": "Infobyte Technologies",
+          "currentlyWorking": false,
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Dec 2025",
+          "endDate": "Dec 2027",
+          "credentialId": "CMPT-A-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124017-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Jan 2024",
+          "endDate": "Jan 2026",
+          "credentialId": "GGL-IT-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124017-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Ongoing",
+          "progress": 48,
+          "grade": null
+        },
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 49,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 16,
+      "uid": "BCA25124018",
+      "loginId": "BCA25124018",
+      "password": "Hs*sDiSV#34h",
+      "name": "PARAS DAKSH",
+      "sgpa": 4.5,
+      "remark": "PCP 305 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.64,
+          "remark": "PCP 105"
+        },
+        "2": {
+          "sgpa": 4.65,
+          "remark": "PCP 201"
+        },
+        "3": {
+          "sgpa": 4.5,
+          "remark": "PCP 305 & PWG"
+        },
+        "4": {
+          "sgpa": 4.67,
+          "remark": "PCP 403"
+        },
+        "5": {
+          "sgpa": 4.68,
+          "remark": "PCP 504"
+        },
+        "6": {
+          "sgpa": 4.69,
+          "remark": "PCP 605"
+        }
+      },
+      "cgpa": 4.64,
+      "education": {
+        "school": "Army Public School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Jul 2024",
+          "endDate": "Jul 2026",
+          "credentialId": "GGL-IT-200406",
+          "credentialUrl": "https://credential.example.com/verify/bca25124018-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 41,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 17,
+      "uid": "BCA25124019",
+      "loginId": "BCA25124019",
+      "password": "$3UtBTlYqv6L",
+      "name": "PRINCE KUMAR",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 5.09,
+          "remark": "PCP 405"
+        },
+        "5": {
+          "sgpa": 5.1,
+          "remark": "PCP 501"
+        },
+        "6": {
+          "sgpa": 5.11,
+          "remark": "PCP 602"
+        }
+      },
+      "cgpa": 2.55,
+      "education": {
+        "school": "Delhi Public School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Ongoing",
+          "progress": 80,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 18,
+      "uid": "BCA25124020",
+      "loginId": "BCA25124020",
+      "password": "4$Zm?zD%wJM5",
+      "name": "ZUBAIR ALAM",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 5.25,
+          "remark": "PCP 402"
+        },
+        "5": {
+          "sgpa": 5.26,
+          "remark": "PCP 503"
+        },
+        "6": {
+          "sgpa": 5.27,
+          "remark": "PCP 604"
+        }
+      },
+      "cgpa": 2.63,
+      "education": {
+        "school": "Springdales School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "serialNumber": 19,
+      "uid": "BCA25124021",
+      "loginId": "BCA25124021",
+      "password": "Znfa933u#jB9",
+      "name": "DEVIKA SAINI",
+      "sgpa": 6.25,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.14,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.15,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.25,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.17,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.18,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.19,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.18,
+      "education": {
+        "school": "St. Xavier's School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Contract",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": false,
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "Jul 2026",
+          "credentialId": "META-FE-200408",
+          "credentialUrl": "https://credential.example.com/verify/bca25124021-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Aug 2025",
+          "endDate": "Aug 2027",
+          "credentialId": "IBM-DS-200408",
+          "credentialUrl": "https://credential.example.com/verify/bca25124021-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        },
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Jun 2025",
+          "endDate": "Aug 2025",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 20,
+      "uid": "BCA25124022",
+      "loginId": "BCA25124022",
+      "password": "@Q@QRzuf8oST",
+      "name": "PRINCE CHAUHAN",
+      "sgpa": 5.83,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 5.81,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 5.82,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 5.83,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 5.84,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.85,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.86,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.83,
+      "education": {
+        "school": "La Martiniere College",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "UI/UX Design Intern",
+          "employmentType": "Internship",
+          "organization": "SkillForge Academy",
+          "currentlyWorking": false,
+          "startDate": "Jan 2024",
+          "endDate": "Apr 2024",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Feb 2025",
+          "endDate": "Feb 2027",
+          "credentialId": "IBM-DS-200408",
+          "credentialUrl": "https://credential.example.com/verify/bca25124022-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 21,
+      "uid": "BCA25124023",
+      "loginId": "BCA25124023",
+      "password": "LcPM48u@&g6w",
+      "name": "ANUSHA NAAZ",
+      "sgpa": 9.25,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 9.32,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 9.33,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 9.25,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 9.35,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 9.36,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 9.37,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 9.33,
+      "education": {
+        "school": "Ryan International School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Social Media Coordinator",
+          "employmentType": "Part-time",
+          "organization": "NextGen Digital",
+          "currentlyWorking": true,
+          "startDate": "Feb 2025",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        },
+        {
+          "title": "IT Support Intern",
+          "employmentType": "Full-time",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": false,
+          "startDate": "Mar 2024",
+          "endDate": "Aug 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Cisco Networking Basics",
+          "issuer": "Cisco",
+          "badge": "Cisco",
+          "issueDate": "Sep 2024",
+          "endDate": "No Expiry",
+          "credentialId": "CISCO-NB-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124023-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Oct 2025",
+          "endDate": "No Expiry",
+          "credentialId": "OJF-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124023-1",
+          "status": "Completed"
+        },
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Nov 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GH-FND-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124023-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Java Programming Masterclass",
+          "code": "CRS-JPM-07",
+          "startDate": "Jul 2024",
+          "endDate": "Oct 2024",
+          "duration": "10 weeks",
+          "description": "OOP concepts, multithreading, and Java project development.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Aug 2025",
+          "endDate": "Oct 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Sep 2024",
+          "endDate": "Oct 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 22,
+      "uid": "BCA25124024",
+      "loginId": "BCA25124024",
+      "password": "H9S%wehYM6px",
+      "name": "PRATYAKSH SHARMA",
+      "sgpa": 7.67,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.83,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.84,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7.67,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.86,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.87,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.88,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.83,
+      "education": {
+        "school": "DAV Public School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "IT Support Intern",
+          "employmentType": "Full-time",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": true,
+          "startDate": "Mar 2024",
+          "endDate": "Present",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Apr 2025",
+          "endDate": "No Expiry",
+          "credentialId": "OJF-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124024-0",
+          "status": "Completed"
+        },
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GH-FND-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124024-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Feb 2025",
+          "endDate": "Apr 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Mar 2024",
+          "endDate": "Apr 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 23,
+      "uid": "BCA25124025",
+      "loginId": "BCA25124025",
+      "password": "*w99EzmS$py&",
+      "name": "NAMAN SAROHA",
+      "sgpa": 7,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.25,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.26,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.28,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.29,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.3,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.23,
+      "education": {
+        "school": "St. Xavier's School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Campus Ambassador",
+          "employmentType": "Contract",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": true,
+          "startDate": "Apr 2025",
+          "endDate": "Present",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Nov 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GH-FND-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124025-0",
+          "status": "Completed"
+        },
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Dec 2025",
+          "endDate": "No Expiry",
+          "credentialId": "CMPT-A-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124025-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Sep 2024",
+          "endDate": "Oct 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 24,
+      "uid": "BCA25124026",
+      "loginId": "BCA25124026",
+      "password": "fd9uf7P*ds?H",
+      "name": "KRISHNA KUMAR",
+      "sgpa": 8,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 8.34,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 8.35,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 8.37,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 8.38,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 8.39,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 8.3,
+      "education": {
+        "school": "Modern School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Technical Content Writer",
+          "employmentType": "Internship",
+          "organization": "Infobyte Technologies",
+          "currentlyWorking": true,
+          "startDate": "May 2024",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        },
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Part-time",
+          "organization": "PixelPeak Studios",
+          "currentlyWorking": false,
+          "startDate": "Jun 2025",
+          "endDate": "Oct 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "CMPT-A-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124026-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Jul 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GGL-IT-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124026-1",
+          "status": "Completed"
+        },
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Aug 2025",
+          "endDate": "No Expiry",
+          "credentialId": "AWS-CP-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124026-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Jun 2025",
+          "endDate": "Sep 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 25,
+      "uid": "BCA25124027",
+      "loginId": "BCA25124027",
+      "password": "NOJV$$A8vys?",
+      "name": "VIDHI CHAUHAN",
+      "sgpa": 4.92,
+      "remark": "PCP 303 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 5.35,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 5.36,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 4.92,
+          "remark": "PCP 303 & PWG"
+        },
+        "4": {
+          "sgpa": 5.38,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 5.39,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 5.4,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 5.3,
+      "education": {
+        "school": "Amity International",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Jan 2024",
+          "endDate": "Jan 2026",
+          "credentialId": "GGL-IT-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124027-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 61,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 26,
+      "uid": "BCA25124029",
+      "loginId": "BCA25124029",
+      "password": "CX*gVxNJ8A2D",
+      "name": "ARPIT TYAGI",
+      "sgpa": 7.5,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 8.11,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 8.12,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7.5,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 8.14,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 8.15,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 8.16,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 8.03,
+      "education": {
+        "school": "Bishop Cotton School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Social Media Coordinator",
+          "employmentType": "Contract",
+          "organization": "DataDriven Co.",
+          "currentlyWorking": true,
+          "startDate": "Aug 2025",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "Mar 2024",
+          "endDate": "No Expiry",
+          "credentialId": "AZ-900-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124029-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Apr 2025",
+          "endDate": "No Expiry",
+          "credentialId": "PY-FE-200409",
+          "credentialUrl": "https://credential.example.com/verify/bca25124029-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Jan 2024",
+          "endDate": "Apr 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Ongoing",
+          "progress": 47,
+          "grade": null
+        },
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Feb 2025",
+          "endDate": "Apr 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Ongoing",
+          "progress": 48,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 27,
+      "uid": "BCA25124030",
+      "loginId": "BCA25124030",
+      "password": "8Zhc1y3@1aRP",
+      "name": "MOHD SHAHBAZ",
+      "sgpa": 4.75,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.93,
+          "remark": "PCP 104"
+        },
+        "2": {
+          "sgpa": 4.94,
+          "remark": "PCP 205"
+        },
+        "3": {
+          "sgpa": 4.75,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 4.96,
+          "remark": "PCP 402"
+        },
+        "5": {
+          "sgpa": 4.97,
+          "remark": "PCP 503"
+        },
+        "6": {
+          "sgpa": 4.98,
+          "remark": "PCP 604"
+        }
+      },
+      "cgpa": 4.92,
+      "education": {
+        "school": "City Montessori School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Sep 2024",
+          "endDate": "Sep 2026",
+          "credentialId": "META-FE-200411",
+          "credentialUrl": "https://credential.example.com/verify/bca25124030-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "Jul 2024",
+          "endDate": "Sep 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Ongoing",
+          "progress": 65,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 28,
+      "uid": "BCA25124031",
+      "loginId": "BCA25124031",
+      "password": "LON8I5Mi8$yu",
+      "name": "GAYATRI PRAJAPATI",
+      "sgpa": 9.33,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 9.6,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 9.61,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 9.33,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 9.63,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 9.64,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 9.65,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 9.58,
+      "education": {
+        "school": "Kendriya Vidyalaya",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Full-time",
+          "organization": "Infobyte Technologies",
+          "currentlyWorking": true,
+          "startDate": "Jul 2024",
+          "endDate": "Present",
+          "locationType": "On-site"
+        },
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Contract",
+          "organization": "PixelPeak Studios",
+          "currentlyWorking": false,
+          "startDate": "Aug 2025",
+          "endDate": "Oct 2025",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Apr 2025",
+          "endDate": "No Expiry",
+          "credentialId": "IBM-DS-200411",
+          "credentialUrl": "https://credential.example.com/verify/bca25124031-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Cisco Networking Basics",
+          "issuer": "Cisco",
+          "badge": "Cisco",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "CISCO-NB-200411",
+          "credentialUrl": "https://credential.example.com/verify/bca25124031-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "OJF-200411",
+          "credentialUrl": "https://credential.example.com/verify/bca25124031-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Feb 2025",
+          "endDate": "Apr 2025",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Ongoing",
+          "progress": 58,
+          "grade": null
+        },
+        {
+          "name": "Java Programming Masterclass",
+          "code": "CRS-JPM-07",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "OOP concepts, multithreading, and Java project development.",
+          "status": "Ongoing",
+          "progress": 59,
+          "grade": null
+        },
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Ongoing",
+          "progress": 60,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 29,
+      "uid": "BCA25124033",
+      "loginId": "BCA25124033",
+      "password": "8VFKwCwg9Jr%",
+      "name": "LAKSHIT KUMAR",
+      "sgpa": 2,
+      "remark": "PCP MULTI",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 2.45,
+          "remark": "PCP 102"
+        },
+        "2": {
+          "sgpa": 2.46,
+          "remark": "PCP 203"
+        },
+        "3": {
+          "sgpa": 2,
+          "remark": "PCP MULTI"
+        },
+        "4": {
+          "sgpa": 2.48,
+          "remark": "PCP 405"
+        },
+        "5": {
+          "sgpa": 2.49,
+          "remark": "PCP 501"
+        },
+        "6": {
+          "sgpa": 2.5,
+          "remark": "PCP 602"
+        }
+      },
+      "cgpa": 2.4,
+      "education": {
+        "school": "Delhi Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Ongoing",
+          "progress": 44,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 30,
+      "uid": "BCA25124034",
+      "loginId": "BCA25124034",
+      "password": "l1f2?*iHRmB6",
+      "name": "ANSH PRATAP",
+      "sgpa": 6.33,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.87,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.88,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.33,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.9,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.91,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.92,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.8,
+      "education": {
+        "school": "City Montessori School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Social Media Coordinator",
+          "employmentType": "Part-time",
+          "organization": "DataDriven Co.",
+          "currentlyWorking": false,
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Jan 2024",
+          "endDate": "Jan 2026",
+          "credentialId": "GH-FND-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124034-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Feb 2025",
+          "endDate": "Feb 2027",
+          "credentialId": "CMPT-A-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124034-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 83,
+          "grade": null
+        },
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Ongoing",
+          "progress": 84,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 31,
+      "uid": "BCA25124035",
+      "loginId": "BCA25124035",
+      "password": "ZQzags16pM!Q",
+      "name": "PRERNA CHAUDHARY",
+      "sgpa": 9.58,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 10,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 10,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 9.58,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 10,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 10,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 10,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 9.93,
+      "education": {
+        "school": "Springdales School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "IT Support Intern",
+          "employmentType": "Full-time",
+          "organization": "CloudNine Systems",
+          "currentlyWorking": true,
+          "startDate": "Nov 2024",
+          "endDate": "Present",
+          "locationType": "Remote"
+        },
+        {
+          "title": "Web Development Intern",
+          "employmentType": "Contract",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": false,
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2025",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Aug 2025",
+          "endDate": "No Expiry",
+          "credentialId": "CMPT-A-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124035-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Sep 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GGL-IT-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124035-1",
+          "status": "Completed"
+        },
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Oct 2025",
+          "endDate": "No Expiry",
+          "credentialId": "AWS-CP-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124035-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Jun 2025",
+          "endDate": "Aug 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Jul 2024",
+          "endDate": "Sep 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Aug 2025",
+          "endDate": "Nov 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 32,
+      "uid": "BCA25124036",
+      "loginId": "BCA25124036",
+      "password": "xdIj4P&OjuEU",
+      "name": "TANISHA",
+      "sgpa": 8.5,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 9.22,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 9.23,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.5,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 9.25,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 9.26,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 9.27,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 9.12,
+      "education": {
+        "school": "Army Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Web Development Intern",
+          "employmentType": "Contract",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": true,
+          "startDate": "Dec 2025",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        },
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Internship",
+          "organization": "SkillForge Academy",
+          "currentlyWorking": false,
+          "startDate": "Jan 2024",
+          "endDate": "Apr 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Mar 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GGL-IT-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124036-0",
+          "status": "Completed"
+        },
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Apr 2025",
+          "endDate": "No Expiry",
+          "credentialId": "AWS-CP-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124036-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "AZ-900-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124036-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Jan 2024",
+          "endDate": "Mar 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Feb 2025",
+          "endDate": "May 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 33,
+      "uid": "BCA25124038",
+      "loginId": "BCA25124038",
+      "password": "7juK$V%ksTX7",
+      "name": "PRINCE KUMAR",
+      "sgpa": 6.17,
+      "remark": "PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.07,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.08,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.17,
+          "remark": "PWG"
+        },
+        "4": {
+          "sgpa": 7.1,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.11,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.12,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 6.94,
+      "education": {
+        "school": "Ryan International School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Part-time",
+          "organization": "NextGen Digital",
+          "currentlyWorking": false,
+          "startDate": "Feb 2025",
+          "endDate": "Jun 2025",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "May 2026",
+          "credentialId": "AZ-900-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124038-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Jun 2025",
+          "endDate": "Jun 2027",
+          "credentialId": "PY-FE-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124038-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        },
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "serialNumber": 34,
+      "uid": "BCA25124039",
+      "loginId": "BCA25124039",
+      "password": "3$&BmR@30SX&",
+      "name": "SHASHANK TYAGI",
+      "sgpa": 7,
+      "remark": "PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.99,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 8,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7,
+          "remark": "PWG"
+        },
+        "4": {
+          "sgpa": 8.02,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 8.03,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 8.04,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.85,
+      "education": {
+        "school": "Springdales School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "UI/UX Design Intern",
+          "employmentType": "Full-time",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": true,
+          "startDate": "Mar 2024",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Dec 2025",
+          "endDate": "No Expiry",
+          "credentialId": "PY-FE-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124039-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jan 2024",
+          "endDate": "No Expiry",
+          "credentialId": "META-FE-200412",
+          "credentialUrl": "https://credential.example.com/verify/bca25124039-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 35,
+      "uid": "BCA25124040",
+      "loginId": "BCA25124040",
+      "password": "rTb$Uj?Ohhi0",
+      "name": "RIZA PARVEEN",
+      "sgpa": 4.25,
+      "remark": "PCP 303 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.81,
+          "remark": "PCP 105"
+        },
+        "2": {
+          "sgpa": 4.82,
+          "remark": "PCP 201"
+        },
+        "3": {
+          "sgpa": 4.25,
+          "remark": "PCP 303 & PWG"
+        },
+        "4": {
+          "sgpa": 4.84,
+          "remark": "PCP 403"
+        },
+        "5": {
+          "sgpa": 4.85,
+          "remark": "PCP 504"
+        },
+        "6": {
+          "sgpa": 4.86,
+          "remark": "PCP 605"
+        }
+      },
+      "cgpa": 4.74,
+      "education": {
+        "school": "La Martiniere College",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Oct 2025",
+          "endDate": "Oct 2027",
+          "credentialId": "IBM-DS-200414",
+          "credentialUrl": "https://credential.example.com/verify/bca25124040-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Aug 2025",
+          "endDate": "Oct 2025",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Ongoing",
+          "progress": 78,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 36,
+      "uid": "BCA25124042",
+      "loginId": "BCA25124042",
+      "password": "BNHgb!e8MDiZ",
+      "name": "ASHISH KUMAR",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "5": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "6": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        }
+      },
+      "cgpa": 0,
+      "education": {
+        "school": "DAV Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Ongoing",
+          "progress": 64,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 37,
+      "uid": "BCA25124043",
+      "loginId": "BCA25124043",
+      "password": "fhQMHnD83r?Q",
+      "name": "DEEPANSHI CHAUHAN",
+      "sgpa": 2.75,
+      "remark": "PCP MULTI",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 3.58,
+          "remark": "PCP 103"
+        },
+        "2": {
+          "sgpa": 3.59,
+          "remark": "PCP 204"
+        },
+        "3": {
+          "sgpa": 2.75,
+          "remark": "PCP MULTI"
+        },
+        "4": {
+          "sgpa": 3.61,
+          "remark": "PCP 401"
+        },
+        "5": {
+          "sgpa": 3.62,
+          "remark": "PCP 502"
+        },
+        "6": {
+          "sgpa": 3.63,
+          "remark": "PCP 603"
+        }
+      },
+      "cgpa": 3.46,
+      "education": {
+        "school": "Bishop Cotton School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "May 2024",
+          "endDate": "Jun 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 57,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 38,
+      "uid": "BCA25124044",
+      "loginId": "BCA25124044",
+      "password": "#M6KCIRKhh#V",
+      "name": "MUKESH",
+      "sgpa": 6.83,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.75,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.76,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.83,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.78,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.79,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.8,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.62,
+      "education": {
+        "school": "Modern School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Data Entry Associate",
+          "employmentType": "Internship",
+          "organization": "CloudNine Systems",
+          "currentlyWorking": false,
+          "startDate": "May 2024",
+          "endDate": "Aug 2024",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Feb 2025",
+          "endDate": "Feb 2027",
+          "credentialId": "CMPT-A-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124044-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Mar 2024",
+          "endDate": "Mar 2026",
+          "credentialId": "GGL-IT-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124044-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Ongoing",
+          "progress": 50,
+          "grade": null
+        },
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Jan 2024",
+          "endDate": "Mar 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 51,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 39,
+      "uid": "BCA25124045",
+      "loginId": "BCA25124045",
+      "password": "rD0f0vk!d?nK",
+      "name": "AAYUSH KUMAR",
+      "sgpa": 3.58,
+      "remark": "PCP 303,305 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.59,
+          "remark": "PCP 105"
+        },
+        "2": {
+          "sgpa": 4.6,
+          "remark": "PCP 201"
+        },
+        "3": {
+          "sgpa": 3.58,
+          "remark": "PCP 303,305 & PWG"
+        },
+        "4": {
+          "sgpa": 4.62,
+          "remark": "PCP 403"
+        },
+        "5": {
+          "sgpa": 4.63,
+          "remark": "PCP 504"
+        },
+        "6": {
+          "sgpa": 4.64,
+          "remark": "PCP 605"
+        }
+      },
+      "cgpa": 4.44,
+      "education": {
+        "school": "Amity International",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Jul 2024",
+          "endDate": "Sep 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Ongoing",
+          "progress": 43,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 40,
+      "uid": "BCA25124046",
+      "loginId": "BCA25124046",
+      "password": "4Avfxc@QEceW",
+      "name": "MEHUL CHAUHAN",
+      "sgpa": 6.5,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.6,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.61,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 6.5,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.63,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.64,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.65,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.44,
+      "education": {
+        "school": "Kendriya Vidyalaya",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "IT Support Intern",
+          "employmentType": "Full-time",
+          "organization": "SkillForge Academy",
+          "currentlyWorking": false,
+          "startDate": "Jul 2024",
+          "endDate": "Dec 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Apr 2025",
+          "endDate": "Apr 2027",
+          "credentialId": "AWS-CP-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124046-0",
+          "status": "In Progress"
+        },
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "May 2026",
+          "credentialId": "AZ-900-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124046-1",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Feb 2025",
+          "endDate": "May 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Ongoing",
+          "progress": 82,
+          "grade": null
+        },
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Ongoing",
+          "progress": 83,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 41,
+      "uid": "BCA25124047",
+      "loginId": "BCA25124047",
+      "password": "h@8hFrsL%zrJ",
+      "name": "VISHAL",
+      "sgpa": 8.17,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 9.36,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 9.37,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.17,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.98,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.99,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.98,
+      "education": {
+        "school": "Bishop Cotton School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Web Development Intern",
+          "employmentType": "Contract",
+          "organization": "NextGen Digital",
+          "currentlyWorking": true,
+          "startDate": "Aug 2025",
+          "endDate": "Present",
+          "locationType": "Remote"
+        },
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Internship",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": false,
+          "startDate": "Sep 2024",
+          "endDate": "Dec 2024",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "Nov 2024",
+          "endDate": "No Expiry",
+          "credentialId": "AZ-900-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124047-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Dec 2025",
+          "endDate": "No Expiry",
+          "credentialId": "PY-FE-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124047-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jan 2024",
+          "endDate": "No Expiry",
+          "credentialId": "META-FE-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124047-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Sep 2024",
+          "endDate": "Dec 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Ongoing",
+          "progress": 75,
+          "grade": null
+        },
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Ongoing",
+          "progress": 76,
+          "grade": null
+        },
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Ongoing",
+          "progress": 77,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 42,
+      "uid": "BCA25124048",
+      "loginId": "BCA25124048",
+      "password": "DsZ%gXo09ozv",
+      "name": "PRIYANSHI",
+      "sgpa": 8.33,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.2,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.21,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.33,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.23,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.24,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.25,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.41,
+      "education": {
+        "school": "Delhi Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Frontend Developer Intern",
+          "employmentType": "Internship",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": true,
+          "startDate": "Sep 2024",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        },
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Part-time",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": false,
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "PY-FE-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124048-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "No Expiry",
+          "credentialId": "META-FE-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124048-1",
+          "status": "Completed"
+        },
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Aug 2025",
+          "endDate": "No Expiry",
+          "credentialId": "IBM-DS-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124048-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Jun 2025",
+          "endDate": "Aug 2025",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 43,
+      "uid": "BCA25124049",
+      "loginId": "BCA25124049",
+      "password": "RcyMKXcYH$x4",
+      "name": "KANIKA RAJPUT",
+      "sgpa": 8.67,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.63,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.64,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.67,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.66,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.67,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.68,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.82,
+      "education": {
+        "school": "City Montessori School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Part-time",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": true,
+          "startDate": "Oct 2025",
+          "endDate": "Present",
+          "locationType": "On-site"
+        },
+        {
+          "title": "Data Entry Associate",
+          "employmentType": "Full-time",
+          "organization": "Infobyte Technologies",
+          "currentlyWorking": false,
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jan 2024",
+          "endDate": "No Expiry",
+          "credentialId": "META-FE-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124049-0",
+          "status": "Completed"
+        },
+        {
+          "title": "IBM Data Science Professional",
+          "issuer": "IBM",
+          "badge": "IBM",
+          "issueDate": "Feb 2025",
+          "endDate": "No Expiry",
+          "credentialId": "IBM-DS-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124049-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Cisco Networking Basics",
+          "issuer": "Cisco",
+          "badge": "Cisco",
+          "issueDate": "Mar 2024",
+          "endDate": "No Expiry",
+          "credentialId": "CISCO-NB-200415",
+          "credentialUrl": "https://credential.example.com/verify/bca25124049-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Cyber Security Fundamentals",
+          "code": "CRS-CSF-06",
+          "startDate": "Dec 2025",
+          "endDate": "Dec 2026",
+          "duration": "6 weeks",
+          "description": "Network security, ethical hacking basics, and encryption.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Java Programming Masterclass",
+          "code": "CRS-JPM-07",
+          "startDate": "Jan 2024",
+          "endDate": "Apr 2024",
+          "duration": "10 weeks",
+          "description": "OOP concepts, multithreading, and Java project development.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 44,
+      "uid": "BCA25124050",
+      "loginId": "BCA25124050",
+      "password": "*L3h?Vv3!5*4",
+      "name": "HITESH KUMAR",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "5": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "6": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        }
+      },
+      "cgpa": 0,
+      "education": {
+        "school": "Army Public School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Java Programming Masterclass",
+          "code": "CRS-JPM-07",
+          "startDate": "Sep 2024",
+          "endDate": "Dec 2024",
+          "duration": "10 weeks",
+          "description": "OOP concepts, multithreading, and Java project development.",
+          "status": "Ongoing",
+          "progress": 45,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 45,
+      "uid": "BCA25124051",
+      "loginId": "BCA25124051",
+      "password": "P*icf%Rhtb@6",
+      "name": "AIMAN FATIMA",
+      "sgpa": 7.83,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 8.86,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 8.87,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 7.83,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 8.89,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 8.9,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 8.91,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 8.71,
+      "education": {
+        "school": "Delhi Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "First Division"
+      },
+      "experience": [
+        {
+          "title": "Technical Content Writer",
+          "employmentType": "Internship",
+          "organization": "NovaTech India",
+          "currentlyWorking": true,
+          "startDate": "Sep 2024",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Oracle Java Foundations",
+          "issuer": "Oracle",
+          "badge": "Oracle",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "OJF-200417",
+          "credentialUrl": "https://credential.example.com/verify/bca25124051-0",
+          "status": "Completed"
+        },
+        {
+          "title": "GitHub Foundations",
+          "issuer": "GitHub",
+          "badge": "GitHub",
+          "issueDate": "Jul 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GH-FND-200417",
+          "credentialUrl": "https://credential.example.com/verify/bca25124051-1",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "UI/UX Design Principles",
+          "code": "CRS-UXD-08",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Design thinking, wireframing, prototyping, and user research.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "May 2024",
+          "endDate": "Jun 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 46,
+      "uid": "BCA25124052",
+      "loginId": "BCA25124052",
+      "password": "hW$H&zF*9%Mf",
+      "name": "ADITYA RAJPUT",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "5": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "6": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        }
+      },
+      "cgpa": 0,
+      "education": {
+        "school": "Ryan International School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Git & Version Control",
+          "code": "CRS-GVC-09",
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "duration": "4 weeks",
+          "description": "Git workflows, branching, merging, and collaboration on GitHub.",
+          "status": "Ongoing",
+          "progress": 77,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 47,
+      "uid": "BCA25124053",
+      "loginId": "BCA25124053",
+      "password": "QbPi0Bk&Hv2n",
+      "name": "CHIRAG SINGH",
+      "sgpa": 5.33,
+      "remark": "PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.13,
+          "remark": "PCP 104"
+        },
+        "2": {
+          "sgpa": 4.14,
+          "remark": "PCP 205"
+        },
+        "3": {
+          "sgpa": 5.33,
+          "remark": "PWG"
+        },
+        "4": {
+          "sgpa": 4.16,
+          "remark": "PCP 402"
+        },
+        "5": {
+          "sgpa": 4.17,
+          "remark": "PCP 503"
+        },
+        "6": {
+          "sgpa": 4.18,
+          "remark": "PCP 604"
+        }
+      },
+      "cgpa": 4.35,
+      "education": {
+        "school": "Springdales School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "UI/UX Design Intern",
+          "employmentType": "Full-time",
+          "organization": "CloudNine Systems",
+          "currentlyWorking": false,
+          "startDate": "Nov 2024",
+          "endDate": "Dec 2024",
+          "locationType": "Remote"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "CompTIA A+ Certification",
+          "issuer": "CompTIA",
+          "badge": "CompTIA",
+          "issueDate": "Aug 2025",
+          "endDate": "Aug 2027",
+          "credentialId": "CMPT-A-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124053-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Agile Project Management",
+          "code": "CRS-APM-10",
+          "startDate": "Jun 2025",
+          "endDate": "Aug 2025",
+          "duration": "5 weeks",
+          "description": "Scrum, Kanban, sprint planning, and team collaboration.",
+          "status": "Ongoing",
+          "progress": 70,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 48,
+      "uid": "BCA25124054",
+      "loginId": "BCA25124054",
+      "password": "te*4YmO6!UY4",
+      "name": "RIMJHIM",
+      "sgpa": 8,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 6.89,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 6.9,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 6.92,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 6.93,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 6.94,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.1,
+      "education": {
+        "school": "St. Xavier's School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Python Developer Intern",
+          "employmentType": "Contract",
+          "organization": "ByteBridge IT",
+          "currentlyWorking": true,
+          "startDate": "Dec 2025",
+          "endDate": "Present",
+          "locationType": "Hybrid"
+        },
+        {
+          "title": "Data Entry Associate",
+          "employmentType": "Internship",
+          "organization": "SkillForge Academy",
+          "currentlyWorking": false,
+          "startDate": "Jan 2024",
+          "endDate": "Apr 2024",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Google IT Support Professional",
+          "issuer": "Google",
+          "badge": "Google",
+          "issueDate": "Mar 2024",
+          "endDate": "No Expiry",
+          "credentialId": "GGL-IT-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124054-0",
+          "status": "Completed"
+        },
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Apr 2025",
+          "endDate": "No Expiry",
+          "credentialId": "AWS-CP-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124054-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "AZ-900-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124054-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Python for Data Science",
+          "code": "CRS-PDS-01",
+          "startDate": "Jan 2024",
+          "endDate": "Mar 2024",
+          "duration": "8 weeks",
+          "description": "Covers Python fundamentals, NumPy, Pandas, and data visualization.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Feb 2025",
+          "endDate": "May 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        },
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Completed",
+          "progress": 100,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "serialNumber": 49,
+      "uid": "BCA25124055",
+      "loginId": "BCA25124055",
+      "password": "p9JXwSyCi*&c",
+      "name": "PRINCE",
+      "sgpa": 4.08,
+      "remark": "PCP 302,303 & PWG",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 3.06,
+          "remark": "PCP 101"
+        },
+        "2": {
+          "sgpa": 3.07,
+          "remark": "PCP 202"
+        },
+        "3": {
+          "sgpa": 4.08,
+          "remark": "PCP 302,303 & PWG"
+        },
+        "4": {
+          "sgpa": 3.09,
+          "remark": "PCP 404"
+        },
+        "5": {
+          "sgpa": 3.1,
+          "remark": "PCP 505"
+        },
+        "6": {
+          "sgpa": 3.11,
+          "remark": "PCP 601"
+        }
+      },
+      "cgpa": 3.25,
+      "education": {
+        "school": "La Martiniere College",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Commerce with Maths",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [],
+      "certifications": [
+        {
+          "title": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "badge": "AWS",
+          "issueDate": "Oct 2025",
+          "endDate": "Oct 2027",
+          "credentialId": "AWS-CP-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124055-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Web Development Bootcamp",
+          "code": "CRS-WDB-02",
+          "startDate": "Aug 2025",
+          "endDate": "Nov 2025",
+          "duration": "12 weeks",
+          "description": "Full-stack web dev with HTML, CSS, JavaScript, and Node.js.",
+          "status": "Ongoing",
+          "progress": 56,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 50,
+      "uid": "BCA25124056",
+      "loginId": "BCA25124056",
+      "password": "axxA#0iXnimB",
+      "name": "GAURAV KATARIA",
+      "sgpa": 8.5,
+      "remark": "PASS",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 7.57,
+          "remark": "PASS"
+        },
+        "2": {
+          "sgpa": 7.58,
+          "remark": "PASS"
+        },
+        "3": {
+          "sgpa": 8.5,
+          "remark": "PASS"
+        },
+        "4": {
+          "sgpa": 7.6,
+          "remark": "PASS"
+        },
+        "5": {
+          "sgpa": 7.61,
+          "remark": "PASS"
+        },
+        "6": {
+          "sgpa": 7.62,
+          "remark": "PASS"
+        }
+      },
+      "cgpa": 7.75,
+      "education": {
+        "school": "Ryan International School",
+        "highestQualification": "Senior Secondary (XII)",
+        "fieldOfStudy": "Arts",
+        "startDate": "April 2021",
+        "endDate": "March 2023",
+        "grade": "Distinction"
+      },
+      "experience": [
+        {
+          "title": "Campus Ambassador",
+          "employmentType": "Part-time",
+          "organization": "NextGen Digital",
+          "currentlyWorking": true,
+          "startDate": "Feb 2025",
+          "endDate": "Present",
+          "locationType": "Remote"
+        },
+        {
+          "title": "Technical Content Writer",
+          "employmentType": "Full-time",
+          "organization": "TechVibe Solutions",
+          "currentlyWorking": false,
+          "startDate": "Mar 2024",
+          "endDate": "Aug 2024",
+          "locationType": "Hybrid"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Microsoft Azure Fundamentals",
+          "issuer": "Microsoft",
+          "badge": "Azure",
+          "issueDate": "May 2024",
+          "endDate": "No Expiry",
+          "credentialId": "AZ-900-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124056-0",
+          "status": "Completed"
+        },
+        {
+          "title": "Python for Everybody",
+          "issuer": "Coursera / UMich",
+          "badge": "Python",
+          "issueDate": "Jun 2025",
+          "endDate": "No Expiry",
+          "credentialId": "PY-FE-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124056-1",
+          "status": "Completed"
+        },
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "No Expiry",
+          "credentialId": "META-FE-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124056-2",
+          "status": "Completed"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Introduction to Machine Learning",
+          "code": "CRS-IML-03",
+          "startDate": "Mar 2024",
+          "endDate": "Jun 2024",
+          "duration": "10 weeks",
+          "description": "Supervised and unsupervised learning algorithms and applications.",
+          "status": "Ongoing",
+          "progress": 49,
+          "grade": null
+        },
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Ongoing",
+          "progress": 50,
+          "grade": null
+        },
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Ongoing",
+          "progress": 51,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 51,
+      "uid": "BCA25124057",
+      "loginId": "BCA25124057",
+      "password": "7FDx#N*qC#fk",
+      "name": "ARAV KUMAR",
+      "sgpa": 0,
+      "remark": "PCP ALL",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "2": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "3": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "4": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "5": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        },
+        "6": {
+          "sgpa": 0,
+          "remark": "PCP ALL"
+        }
+      },
+      "cgpa": 0,
+      "education": {
+        "school": "DAV Public School",
+        "highestQualification": "Intermediate (XII)",
+        "fieldOfStudy": "Science (PCM)",
+        "startDate": "April 2022",
+        "endDate": "March 2024",
+        "grade": "Third Division"
+      },
+      "experience": [],
+      "certifications": [],
+      "courses": [
+        {
+          "name": "Database Management with SQL",
+          "code": "CRS-DMS-04",
+          "startDate": "Oct 2025",
+          "endDate": "Dec 2025",
+          "duration": "6 weeks",
+          "description": "Relational databases, SQL queries, normalization, and optimization.",
+          "status": "Ongoing",
+          "progress": 42,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "serialNumber": 52,
+      "uid": "BCA25124058",
+      "loginId": "BCA25124058",
+      "password": "%%zPLPsGmbG2",
+      "name": "ARYANSH",
+      "sgpa": 5,
+      "remark": "PCP 303",
+      "skills": [
+        "Process Scheduling",
+        "Linux Basics",
+        "Memory Management",
+        "UML Modeling",
+        "Requirement Analysis",
+        "Workflow Mapping",
+        "Financial Reporting",
+        "Spreadsheet Modeling",
+        "Analytical Thinking",
+        "Optimization",
+        "Quantitative Reasoning",
+        "Decision Models"
+      ],
+      "subjects": [
+        {
+          "code": "BCAC301T",
+          "name": "Operating System"
+        },
+        {
+          "code": "BCAC302T",
+          "name": "System Analysis & Design"
+        },
+        {
+          "code": "BCAE303T",
+          "name": "Accounting & Financial Management"
+        },
+        {
+          "code": "BCAE304T",
+          "name": "Operation Research"
+        },
+        {
+          "code": "BCAS305T",
+          "name": "Python Programming"
+        },
+        {
+          "code": "BCAC306P",
+          "name": "Operating System Lab"
+        },
+        {
+          "code": "BCAS307P",
+          "name": "Python Programming Lab"
+        }
+      ],
+      "semesters": {
+        "1": {
+          "sgpa": 4.25,
+          "remark": "PCP 104"
+        },
+        "2": {
+          "sgpa": 4.26,
+          "remark": "PCP 205"
+        },
+        "3": {
+          "sgpa": 5,
+          "remark": "PCP 303"
+        },
+        "4": {
+          "sgpa": 4.28,
+          "remark": "PCP 402"
+        },
+        "5": {
+          "sgpa": 4.29,
+          "remark": "PCP 503"
+        },
+        "6": {
+          "sgpa": 4.3,
+          "remark": "PCP 604"
+        }
+      },
+      "cgpa": 4.4,
+      "education": {
+        "school": "St. Xavier's School",
+        "highestQualification": "Higher Secondary",
+        "fieldOfStudy": "Science (PCB)",
+        "startDate": "April 2023",
+        "endDate": "March 2025",
+        "grade": "Second Division"
+      },
+      "experience": [
+        {
+          "title": "Jr. Software Tester",
+          "employmentType": "Contract",
+          "organization": "CodeCraft Labs",
+          "currentlyWorking": false,
+          "startDate": "Apr 2025",
+          "endDate": "Jun 2025",
+          "locationType": "On-site"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Meta Front-End Developer",
+          "issuer": "Meta",
+          "badge": "Meta",
+          "issueDate": "Jul 2024",
+          "endDate": "Jul 2026",
+          "credentialId": "META-FE-200418",
+          "credentialUrl": "https://credential.example.com/verify/bca25124058-0",
+          "status": "In Progress"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Cloud Computing Essentials",
+          "code": "CRS-CCE-05",
+          "startDate": "May 2024",
+          "endDate": "Jul 2024",
+          "duration": "8 weeks",
+          "description": "AWS/Azure fundamentals, deployment, and cloud architecture.",
+          "status": "Ongoing",
+          "progress": 81,
+          "grade": null
+        }
+      ]
+    }
+  ]
+}
